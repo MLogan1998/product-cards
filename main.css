@@ -13,17 +13,44 @@ body {
   float: left;
 }
 
+
+.firstSection {
+  text-align: center;
+}
+
+
 .productImg {
   width: 250px;
   justify-content: center;
 }
 
+.productDescription {
+  text-align: justify;
+  margin: 2px;
+}
+
 .productAvail {
+  text-align: justify;
   background-color: lightslategray;
   color: yellow;
   font-weight: bold;
+  margin: 0px;
 }
-
-p {
+.secondSection h3 {
+  margin: 10px 0px 3px 8px;
+}
+.specificationsSize {
+  font-weight: bold;
+  margin: 1px 0px 0px 16px;
+}
+.specificationsFooter {
+  font-size: small;
   margin: 2px;
+}
+.thirdSection h3 {
+  margin: 3px 0px 0px 8px;
+}
+.priceP {
+  font-weight: bold;
+  margin: 1px 0px 0px 16px; 
 }
