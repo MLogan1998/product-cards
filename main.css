@@ -4,6 +4,7 @@ body {
 
 .mainContainer {
   display: flex;
+  float: left;
 }
 
 .productCard {
@@ -17,11 +18,16 @@ body {
 .firstSection {
   text-align: center;
 }
-
+.firstSection h2 {
+  border: 1px solid lightblue;
+  margin: 0px;
+}
 
 .productImg {
   width: 250px;
+  max-height: 125px;
   justify-content: center;
+  margin: 10px auto;
 }
 
 .productDescription {
