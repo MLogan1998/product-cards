@@ -18,7 +18,7 @@ h1 {
   border: 1px solid lightblue;
   margin: 10px;
   float: left;
-  box-shadow: 10px 10px 20px 1px #888888;
+  box-shadow: 3px 3px 7px 1px #888888;
 }
 
 
@@ -40,7 +40,7 @@ h1 {
 .productDescription {
   text-align: justify;
   margin: 2px;
-  font-family: 'Open Sans Condensed', sans-serif;
+  font-family: 'News Cycle', sans-serif;
 }
 
 .productAvail {
@@ -62,7 +62,7 @@ h1 {
 .specificationsFooter {
   font-size: small;
   margin: 2px;
-  font-family: 'Open Sans Condensed', sans-serif;
+  font-family: 'News Cycle', sans-serif;
 }
 .thirdSection h3 {
   font-family: 'Oswald', sans-serif;
