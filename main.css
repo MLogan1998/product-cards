@@ -1,11 +1,16 @@
 body {
   background-color: white;
 }
-
+h1 {
+  text-align: center;
+  font-family: 'Bebas Neue', cursive;
+}
 .mainContainer {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
+  max-width: 1000px;
+  margin: 0 auto;
 }
 
 .productCard {
@@ -13,6 +18,7 @@ body {
   border: 1px solid lightblue;
   margin: 10px;
   float: left;
+  box-shadow: 10px 10px 20px 1px #888888;
 }
 
 
@@ -20,7 +26,7 @@ body {
   text-align: center;
 }
 .firstSection h2 {
-  border: 1px solid lightblue;
+  border-bottom: 1px solid lightblue;
   margin: 0px;
   font-family: 'Bebas Neue', cursive;
 }
