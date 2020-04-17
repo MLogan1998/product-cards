@@ -21,6 +21,7 @@ body {
 .firstSection h2 {
   border: 1px solid lightblue;
   margin: 0px;
+  font-family: 'Bebas Neue', cursive;
 }
 
 .productImg {
@@ -32,6 +33,7 @@ body {
 .productDescription {
   text-align: justify;
   margin: 2px;
+  font-family: 'Open Sans Condensed', sans-serif;
 }
 
 .productAvail {
@@ -40,8 +42,10 @@ body {
   color: yellow;
   font-weight: bold;
   margin: 0px;
+  font-family: 'Roboto', sans-serif;
 }
 .secondSection h3 {
+  font-family: 'Oswald', sans-serif;
   margin: 10px 0px 3px 8px;
 }
 .specificationsSize {
@@ -51,8 +55,10 @@ body {
 .specificationsFooter {
   font-size: small;
   margin: 2px;
+  font-family: 'Open Sans Condensed', sans-serif;
 }
 .thirdSection h3 {
+  font-family: 'Oswald', sans-serif;
   margin: 3px 0px 0px 8px;
 }
 .priceP {
