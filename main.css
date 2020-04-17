@@ -4,7 +4,8 @@ body {
 
 .mainContainer {
   display: flex;
-  float: left;
+  flex-wrap: wrap;
+  justify-content: center;
 }
 
 .productCard {
